@@ -14,7 +14,8 @@ public class AccountHolderObjects {
 		
 		
 		System.out.println("Tom eligibility is: " + tom.checkEligibility());
-		
+		System.out.println("Tom eligibility is: " + tom.checkEligibility());
+
 		
 	}
 
